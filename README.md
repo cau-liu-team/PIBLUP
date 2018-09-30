@@ -6,4 +6,4 @@ Directory program/ contains programs for PIBLUP v1.0. Examples (parameter file) 
 Directory PIBLUPv1.1/ contains programs for PIBLUP v1.1 and its user manual. We added nearpd option to compute the nearest positive definite matrix of G in genoimc selection in PIBLUP v1.1. This leaded to a small change in syntax in parameter file.
 
 Cite:
-Kang, H, Ning, C, Zhou, L, Zhang, S, Yang, N, and J-F Liu (2018). PIBLUP: High-Performance Software for Large-Scale Genetic Evaluation of Animals and Plants. Frontiers in Genetics 9 (226)。
+Kang, H, Ning, C, Zhou, L, Zhang, S, Yang, N, and J-F Liu (2018). PIBLUP: High-Performance Software for Large-Scale Genetic Evaluation of Animals and Plants. Frontiers in Genetics 9 (226).
